@@ -1,0 +1,2232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-02-18T22:28:12.440-05:00
+  initializedAtString: 2022-02-18T22:26:22.056-05:00
+  entries:
+  - path: Project 2042\Library\ArtifactDB
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Library\Artifacts\00\001452770f2dfc60236c9970c5b9148e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\00\001452770f2dfc60236c9970c5b9148e
+    projectPath: Library\Artifacts\00\001452770f2dfc60236c9970c5b9148e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\01\010038b3ef4be1d603ef3961a3899e49
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\01\010038b3ef4be1d603ef3961a3899e49
+    projectPath: Library\Artifacts\01\010038b3ef4be1d603ef3961a3899e49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\01\01e90805231c94d8d1f22efb1380adbb
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\01\01e90805231c94d8d1f22efb1380adbb
+    projectPath: Library\Artifacts\01\01e90805231c94d8d1f22efb1380adbb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\02\027ac3822070f213af4199dd11ae4306
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\02\027ac3822070f213af4199dd11ae4306
+    projectPath: Library\Artifacts\02\027ac3822070f213af4199dd11ae4306
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\03\036ca6bfe2cde32facc669cd0ea81b5b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\03\036ca6bfe2cde32facc669cd0ea81b5b
+    projectPath: Library\Artifacts\03\036ca6bfe2cde32facc669cd0ea81b5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\05\051cc9a092134fe18d8e7d3559873138
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\05\051cc9a092134fe18d8e7d3559873138
+    projectPath: Library\Artifacts\05\051cc9a092134fe18d8e7d3559873138
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\05\05b4c73bd80172d79bd2c457eb7cfe55
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\05\05b4c73bd80172d79bd2c457eb7cfe55
+    projectPath: Library\Artifacts\05\05b4c73bd80172d79bd2c457eb7cfe55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\05\05cc65b413fdfa52d8b84b01fd0521d7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\05\05cc65b413fdfa52d8b84b01fd0521d7
+    projectPath: Library\Artifacts\05\05cc65b413fdfa52d8b84b01fd0521d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\08\080e92c34c545e5c33c327753b8f483a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\08\080e92c34c545e5c33c327753b8f483a
+    projectPath: Library\Artifacts\08\080e92c34c545e5c33c327753b8f483a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\08\08d21539bb3942f214054673fb0c89c5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\08\08d21539bb3942f214054673fb0c89c5
+    projectPath: Library\Artifacts\08\08d21539bb3942f214054673fb0c89c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\08\08da36eec6ae920d3ee5972f19fbdbb1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\08\08da36eec6ae920d3ee5972f19fbdbb1
+    projectPath: Library\Artifacts\08\08da36eec6ae920d3ee5972f19fbdbb1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\09\098f47fb411d9fe93dba7e8ec399137f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\09\098f47fb411d9fe93dba7e8ec399137f
+    projectPath: Library\Artifacts\09\098f47fb411d9fe93dba7e8ec399137f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\09\09bd2810231106a5b1abdef97d5db0f6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\09\09bd2810231106a5b1abdef97d5db0f6
+    projectPath: Library\Artifacts\09\09bd2810231106a5b1abdef97d5db0f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\09\09da6e1f5d786f9d13025dd3ab939990
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\09\09da6e1f5d786f9d13025dd3ab939990
+    projectPath: Library\Artifacts\09\09da6e1f5d786f9d13025dd3ab939990
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0a\0a27b4615dd33c86f99e601aa44bd20c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0a\0a27b4615dd33c86f99e601aa44bd20c
+    projectPath: Library\Artifacts\0a\0a27b4615dd33c86f99e601aa44bd20c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0b\0b6328dfce130f41033f90ea634af508
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0b\0b6328dfce130f41033f90ea634af508
+    projectPath: Library\Artifacts\0b\0b6328dfce130f41033f90ea634af508
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0c\0c0a7585724501b2948c0cd26309be83
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0c\0c0a7585724501b2948c0cd26309be83
+    projectPath: Library\Artifacts\0c\0c0a7585724501b2948c0cd26309be83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0c\0c2b117325f5ea5c02e604a995802bf0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0c\0c2b117325f5ea5c02e604a995802bf0
+    projectPath: Library\Artifacts\0c\0c2b117325f5ea5c02e604a995802bf0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0c\0c6e45924c1f3e77f17896f25da0927d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0c\0c6e45924c1f3e77f17896f25da0927d
+    projectPath: Library\Artifacts\0c\0c6e45924c1f3e77f17896f25da0927d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0e\0e2aed2241a0383ff8df73e7b5cadcbc
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0e\0e2aed2241a0383ff8df73e7b5cadcbc
+    projectPath: Library\Artifacts\0e\0e2aed2241a0383ff8df73e7b5cadcbc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0e\0e3e23c7bd64dd04141485123248058c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0e\0e3e23c7bd64dd04141485123248058c
+    projectPath: Library\Artifacts\0e\0e3e23c7bd64dd04141485123248058c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0f\0f9a1c15e830e15b986fe18ef0a38378
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0f\0f9a1c15e830e15b986fe18ef0a38378
+    projectPath: Library\Artifacts\0f\0f9a1c15e830e15b986fe18ef0a38378
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\0f\0fc508641dde1eced8e1020eba031008
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\0f\0fc508641dde1eced8e1020eba031008
+    projectPath: Library\Artifacts\0f\0fc508641dde1eced8e1020eba031008
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\10\1031fc9cdc987e837cc3895445f64dc9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\10\1031fc9cdc987e837cc3895445f64dc9
+    projectPath: Library\Artifacts\10\1031fc9cdc987e837cc3895445f64dc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\12\12265b4f2998df837311c0d800779f89
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\12\12265b4f2998df837311c0d800779f89
+    projectPath: Library\Artifacts\12\12265b4f2998df837311c0d800779f89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\12\12e29d3777678b07c0b958ce2c0e868d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\12\12e29d3777678b07c0b958ce2c0e868d
+    projectPath: Library\Artifacts\12\12e29d3777678b07c0b958ce2c0e868d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\12\12ee9748141a5a4fc7f08818c7a8cc21
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\12\12ee9748141a5a4fc7f08818c7a8cc21
+    projectPath: Library\Artifacts\12\12ee9748141a5a4fc7f08818c7a8cc21
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\12\12f1c11413b9a901008685c14ebcd308
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\12\12f1c11413b9a901008685c14ebcd308
+    projectPath: Library\Artifacts\12\12f1c11413b9a901008685c14ebcd308
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\13\13550204872957f4f9ca4b037399fa25
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\13\13550204872957f4f9ca4b037399fa25
+    projectPath: Library\Artifacts\13\13550204872957f4f9ca4b037399fa25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\14\14a62186335ccd3e1942e414e661964b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\14\14a62186335ccd3e1942e414e661964b
+    projectPath: Library\Artifacts\14\14a62186335ccd3e1942e414e661964b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\15\15c63969a3d69a998ffde53aa5308b90
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\15\15c63969a3d69a998ffde53aa5308b90
+    projectPath: Library\Artifacts\15\15c63969a3d69a998ffde53aa5308b90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\19\193ea42efc8cf286a89572977c3478a9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\19\193ea42efc8cf286a89572977c3478a9
+    projectPath: Library\Artifacts\19\193ea42efc8cf286a89572977c3478a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\19\19cc3a72bc00fa192b5ae1a238be19d1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\19\19cc3a72bc00fa192b5ae1a238be19d1
+    projectPath: Library\Artifacts\19\19cc3a72bc00fa192b5ae1a238be19d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\19\19f0bc2a011d1dd4398c70adb1a5919e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\19\19f0bc2a011d1dd4398c70adb1a5919e
+    projectPath: Library\Artifacts\19\19f0bc2a011d1dd4398c70adb1a5919e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1c\1c894f7aa90ab0153074f0371897adb9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1c\1c894f7aa90ab0153074f0371897adb9
+    projectPath: Library\Artifacts\1c\1c894f7aa90ab0153074f0371897adb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1c\1c9454a1c4c43c0d9236833848e6394a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1c\1c9454a1c4c43c0d9236833848e6394a
+    projectPath: Library\Artifacts\1c\1c9454a1c4c43c0d9236833848e6394a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1e\1e52ed47e721767939b5468138e35271
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1e\1e52ed47e721767939b5468138e35271
+    projectPath: Library\Artifacts\1e\1e52ed47e721767939b5468138e35271
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1e\1e5ec5c92933e0f80d908c688dd6d864
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1e\1e5ec5c92933e0f80d908c688dd6d864
+    projectPath: Library\Artifacts\1e\1e5ec5c92933e0f80d908c688dd6d864
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1e\1eba2cf6d5a418615c19b176a144c221
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1e\1eba2cf6d5a418615c19b176a144c221
+    projectPath: Library\Artifacts\1e\1eba2cf6d5a418615c19b176a144c221
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\1f\1fe944b22243fcfc68e4ced397d181e2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\1f\1fe944b22243fcfc68e4ced397d181e2
+    projectPath: Library\Artifacts\1f\1fe944b22243fcfc68e4ced397d181e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\20\2030746ae1eb9952b341f4d08bccb030
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\20\2030746ae1eb9952b341f4d08bccb030
+    projectPath: Library\Artifacts\20\2030746ae1eb9952b341f4d08bccb030
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\20\20edece6e69a2c894fd0e7113e270d90
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\20\20edece6e69a2c894fd0e7113e270d90
+    projectPath: Library\Artifacts\20\20edece6e69a2c894fd0e7113e270d90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\21\21118b4e6bff5ef3116a6c2b00f52397
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\21\21118b4e6bff5ef3116a6c2b00f52397
+    projectPath: Library\Artifacts\21\21118b4e6bff5ef3116a6c2b00f52397
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\21\21399172b6a0aab3406c48a0699ae674
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\21\21399172b6a0aab3406c48a0699ae674
+    projectPath: Library\Artifacts\21\21399172b6a0aab3406c48a0699ae674
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\23\239086610b89ae5540965cfe42ed5e41
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\23\239086610b89ae5540965cfe42ed5e41
+    projectPath: Library\Artifacts\23\239086610b89ae5540965cfe42ed5e41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\23\2395644d41c32849e38e5628c09a97f0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\23\2395644d41c32849e38e5628c09a97f0
+    projectPath: Library\Artifacts\23\2395644d41c32849e38e5628c09a97f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\25\253a72d02c52c5cc4b789e49954a62d5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\25\253a72d02c52c5cc4b789e49954a62d5
+    projectPath: Library\Artifacts\25\253a72d02c52c5cc4b789e49954a62d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\25\2547328dac3af2bb05c9ef3fcec43eb2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\25\2547328dac3af2bb05c9ef3fcec43eb2
+    projectPath: Library\Artifacts\25\2547328dac3af2bb05c9ef3fcec43eb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\25\2554b228cca4064eab4fc7e6176a1ff4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\25\2554b228cca4064eab4fc7e6176a1ff4
+    projectPath: Library\Artifacts\25\2554b228cca4064eab4fc7e6176a1ff4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\26\262840c034cff781daa87336605e76ab
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\26\262840c034cff781daa87336605e76ab
+    projectPath: Library\Artifacts\26\262840c034cff781daa87336605e76ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\28\280c383eada71b8090afd6a22059dcf2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\28\280c383eada71b8090afd6a22059dcf2
+    projectPath: Library\Artifacts\28\280c383eada71b8090afd6a22059dcf2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\28\2827b2168c9c0dfb28f24db49eefa391
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\28\2827b2168c9c0dfb28f24db49eefa391
+    projectPath: Library\Artifacts\28\2827b2168c9c0dfb28f24db49eefa391
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\28\289db4e840f4df5b80bf1e1d13a78268
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\28\289db4e840f4df5b80bf1e1d13a78268
+    projectPath: Library\Artifacts\28\289db4e840f4df5b80bf1e1d13a78268
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2a\2a0add0851bdf561e0734d20cc9add9d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2a\2a0add0851bdf561e0734d20cc9add9d
+    projectPath: Library\Artifacts\2a\2a0add0851bdf561e0734d20cc9add9d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2a\2a3fb1f9e63257f6f4ad09ee2dea3128
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2a\2a3fb1f9e63257f6f4ad09ee2dea3128
+    projectPath: Library\Artifacts\2a\2a3fb1f9e63257f6f4ad09ee2dea3128
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2b\2b1637e18ba83dbe932b98c3436f447f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2b\2b1637e18ba83dbe932b98c3436f447f
+    projectPath: Library\Artifacts\2b\2b1637e18ba83dbe932b98c3436f447f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2c\2c4e09ece705cba006bb361f9dcd835e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2c\2c4e09ece705cba006bb361f9dcd835e
+    projectPath: Library\Artifacts\2c\2c4e09ece705cba006bb361f9dcd835e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2c\2c6d877f948f8144f233d2851fd8d2da
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2c\2c6d877f948f8144f233d2851fd8d2da
+    projectPath: Library\Artifacts\2c\2c6d877f948f8144f233d2851fd8d2da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2d\2daeab722a98b219dd73e5a0ae6160e4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2d\2daeab722a98b219dd73e5a0ae6160e4
+    projectPath: Library\Artifacts\2d\2daeab722a98b219dd73e5a0ae6160e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2d\2ded823b38ba6a24b452cb147b4ec00d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2d\2ded823b38ba6a24b452cb147b4ec00d
+    projectPath: Library\Artifacts\2d\2ded823b38ba6a24b452cb147b4ec00d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2e\2eb3c5bb6b6a4095cfe06b518dd8300b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2e\2eb3c5bb6b6a4095cfe06b518dd8300b
+    projectPath: Library\Artifacts\2e\2eb3c5bb6b6a4095cfe06b518dd8300b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2e\2ebab88987016da3f7346be9ff6649f4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2e\2ebab88987016da3f7346be9ff6649f4
+    projectPath: Library\Artifacts\2e\2ebab88987016da3f7346be9ff6649f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2e\2edf3f77a0d91de6d22567834843744a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2e\2edf3f77a0d91de6d22567834843744a
+    projectPath: Library\Artifacts\2e\2edf3f77a0d91de6d22567834843744a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2e\2ee9273761c03d86b6e85f5cb94c9dd1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2e\2ee9273761c03d86b6e85f5cb94c9dd1
+    projectPath: Library\Artifacts\2e\2ee9273761c03d86b6e85f5cb94c9dd1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2f\2f210792b9e7d50f56bdb6c8a609a24c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2f\2f210792b9e7d50f56bdb6c8a609a24c
+    projectPath: Library\Artifacts\2f\2f210792b9e7d50f56bdb6c8a609a24c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\2f\2f3377efb6b7cae420ed1ed7218187de
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\2f\2f3377efb6b7cae420ed1ed7218187de
+    projectPath: Library\Artifacts\2f\2f3377efb6b7cae420ed1ed7218187de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\30\30e616e53afe5751d204fb53c8015c23
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\30\30e616e53afe5751d204fb53c8015c23
+    projectPath: Library\Artifacts\30\30e616e53afe5751d204fb53c8015c23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\30\30e78bec4338d266718aac05daba03c7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\30\30e78bec4338d266718aac05daba03c7
+    projectPath: Library\Artifacts\30\30e78bec4338d266718aac05daba03c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\32\3237b1fc482a0a81d7ce1d460bc1a7a9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\32\3237b1fc482a0a81d7ce1d460bc1a7a9
+    projectPath: Library\Artifacts\32\3237b1fc482a0a81d7ce1d460bc1a7a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\33\33e9fef238bf4d2e9c56e8943dde9ae8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\33\33e9fef238bf4d2e9c56e8943dde9ae8
+    projectPath: Library\Artifacts\33\33e9fef238bf4d2e9c56e8943dde9ae8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\34\34aecc5301b15ed1b900d2e733da78ba
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\34\34aecc5301b15ed1b900d2e733da78ba
+    projectPath: Library\Artifacts\34\34aecc5301b15ed1b900d2e733da78ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\35\35b3a1ef378d43b161ba14e7cbae47b2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\35\35b3a1ef378d43b161ba14e7cbae47b2
+    projectPath: Library\Artifacts\35\35b3a1ef378d43b161ba14e7cbae47b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\35\35bc5b1c59c37a0a5bc220680d4808b1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\35\35bc5b1c59c37a0a5bc220680d4808b1
+    projectPath: Library\Artifacts\35\35bc5b1c59c37a0a5bc220680d4808b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\36\362649d31d68a9c94120bb939f633eec
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\36\362649d31d68a9c94120bb939f633eec
+    projectPath: Library\Artifacts\36\362649d31d68a9c94120bb939f633eec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\36\36cdf9ef1efb5df8ec2212f563d7b307
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\36\36cdf9ef1efb5df8ec2212f563d7b307
+    projectPath: Library\Artifacts\36\36cdf9ef1efb5df8ec2212f563d7b307
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\37\3703ac7f7918437af9b2a3ae834f0785
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\37\3703ac7f7918437af9b2a3ae834f0785
+    projectPath: Library\Artifacts\37\3703ac7f7918437af9b2a3ae834f0785
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\39\39180951ed8a06fe327674387ed5b592
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\39\39180951ed8a06fe327674387ed5b592
+    projectPath: Library\Artifacts\39\39180951ed8a06fe327674387ed5b592
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3c\3c07b27ab8c0d59f578fef9bce29ec9d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3c\3c07b27ab8c0d59f578fef9bce29ec9d
+    projectPath: Library\Artifacts\3c\3c07b27ab8c0d59f578fef9bce29ec9d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3c\3c957cdccda0bde50ddaf4d0ff6edf20
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3c\3c957cdccda0bde50ddaf4d0ff6edf20
+    projectPath: Library\Artifacts\3c\3c957cdccda0bde50ddaf4d0ff6edf20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3d\3d5e9223d51151391e24aa8a8a1f80eb
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3d\3d5e9223d51151391e24aa8a8a1f80eb
+    projectPath: Library\Artifacts\3d\3d5e9223d51151391e24aa8a8a1f80eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3d\3dba9e2d1da9a0b68a83285ff93e6898
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3d\3dba9e2d1da9a0b68a83285ff93e6898
+    projectPath: Library\Artifacts\3d\3dba9e2d1da9a0b68a83285ff93e6898
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3e\3e5d82cee00b1a76e04ba7aee65bf8b8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3e\3e5d82cee00b1a76e04ba7aee65bf8b8
+    projectPath: Library\Artifacts\3e\3e5d82cee00b1a76e04ba7aee65bf8b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3e\3e61ce5ba6cc92acbf440f34d19f150a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3e\3e61ce5ba6cc92acbf440f34d19f150a
+    projectPath: Library\Artifacts\3e\3e61ce5ba6cc92acbf440f34d19f150a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3e\3ea017860f53feb4a89aa186fc84ff8e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3e\3ea017860f53feb4a89aa186fc84ff8e
+    projectPath: Library\Artifacts\3e\3ea017860f53feb4a89aa186fc84ff8e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\3e\3ebf0011cff4a259825b6085427986a4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\3e\3ebf0011cff4a259825b6085427986a4
+    projectPath: Library\Artifacts\3e\3ebf0011cff4a259825b6085427986a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\41\416d7f2c16542ef15a92fb97c17f7606
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\41\416d7f2c16542ef15a92fb97c17f7606
+    projectPath: Library\Artifacts\41\416d7f2c16542ef15a92fb97c17f7606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\41\41d5d9044492894071a7ac9f71e0a307
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\41\41d5d9044492894071a7ac9f71e0a307
+    projectPath: Library\Artifacts\41\41d5d9044492894071a7ac9f71e0a307
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\42\42b7f73935e48bca0508dc427d45bb3d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\42\42b7f73935e48bca0508dc427d45bb3d
+    projectPath: Library\Artifacts\42\42b7f73935e48bca0508dc427d45bb3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\42\42e690264a0ce54561114d2dd24be65d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\42\42e690264a0ce54561114d2dd24be65d
+    projectPath: Library\Artifacts\42\42e690264a0ce54561114d2dd24be65d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\43\438cd27694e096a65ba7b129d57b967c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\43\438cd27694e096a65ba7b129d57b967c
+    projectPath: Library\Artifacts\43\438cd27694e096a65ba7b129d57b967c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\44\44d8b300d2e508fb9eed20979a26a398
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\44\44d8b300d2e508fb9eed20979a26a398
+    projectPath: Library\Artifacts\44\44d8b300d2e508fb9eed20979a26a398
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\45\451672433803891f36023f402b0cbfef
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\45\451672433803891f36023f402b0cbfef
+    projectPath: Library\Artifacts\45\451672433803891f36023f402b0cbfef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\45\45882e9147959a6ce75fe5f0a91b07e2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\45\45882e9147959a6ce75fe5f0a91b07e2
+    projectPath: Library\Artifacts\45\45882e9147959a6ce75fe5f0a91b07e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\46\462aece66cbda4cff9d4b2a656b204a2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\46\462aece66cbda4cff9d4b2a656b204a2
+    projectPath: Library\Artifacts\46\462aece66cbda4cff9d4b2a656b204a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\46\46f771ae339dc6283386e6dc9e8e0719
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\46\46f771ae339dc6283386e6dc9e8e0719
+    projectPath: Library\Artifacts\46\46f771ae339dc6283386e6dc9e8e0719
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\47\476960faf67916a42836eda65bd2cf61
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\47\476960faf67916a42836eda65bd2cf61
+    projectPath: Library\Artifacts\47\476960faf67916a42836eda65bd2cf61
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\49\490a81986f5beb89a91aaa0e5d524d5a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\49\490a81986f5beb89a91aaa0e5d524d5a
+    projectPath: Library\Artifacts\49\490a81986f5beb89a91aaa0e5d524d5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\49\49604ec7ace059961c3f9f5559ff1cff
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\49\49604ec7ace059961c3f9f5559ff1cff
+    projectPath: Library\Artifacts\49\49604ec7ace059961c3f9f5559ff1cff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4a\4a783f25d05482a311c3d92e0d4b6bd6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4a\4a783f25d05482a311c3d92e0d4b6bd6
+    projectPath: Library\Artifacts\4a\4a783f25d05482a311c3d92e0d4b6bd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4b\4bea44843126db61185efb82b1408225
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4b\4bea44843126db61185efb82b1408225
+    projectPath: Library\Artifacts\4b\4bea44843126db61185efb82b1408225
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4c\4c10a36d09fad05b4b45555613c46d69
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4c\4c10a36d09fad05b4b45555613c46d69
+    projectPath: Library\Artifacts\4c\4c10a36d09fad05b4b45555613c46d69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4c\4c91fc360d85259e2f6716109b10b96f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4c\4c91fc360d85259e2f6716109b10b96f
+    projectPath: Library\Artifacts\4c\4c91fc360d85259e2f6716109b10b96f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4d\4d41d11dc56482a0b9f692c4c618b079
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4d\4d41d11dc56482a0b9f692c4c618b079
+    projectPath: Library\Artifacts\4d\4d41d11dc56482a0b9f692c4c618b079
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4d\4db5d23960c2ab75fd6c16318c366405
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4d\4db5d23960c2ab75fd6c16318c366405
+    projectPath: Library\Artifacts\4d\4db5d23960c2ab75fd6c16318c366405
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4e\4e58bf4815dbd322fac62450e1ba6346
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4e\4e58bf4815dbd322fac62450e1ba6346
+    projectPath: Library\Artifacts\4e\4e58bf4815dbd322fac62450e1ba6346
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4e\4ef47db3ab16ed9fc54076123fb02906
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4e\4ef47db3ab16ed9fc54076123fb02906
+    projectPath: Library\Artifacts\4e\4ef47db3ab16ed9fc54076123fb02906
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\4f\4fd960d0874ff98c2203803ea42aca5e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\4f\4fd960d0874ff98c2203803ea42aca5e
+    projectPath: Library\Artifacts\4f\4fd960d0874ff98c2203803ea42aca5e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\50\5053162d9050a5ca1301026b15f46a7a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\50\5053162d9050a5ca1301026b15f46a7a
+    projectPath: Library\Artifacts\50\5053162d9050a5ca1301026b15f46a7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\50\5093bde4c0fab8d88afb7b1c3a90f3fa
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\50\5093bde4c0fab8d88afb7b1c3a90f3fa
+    projectPath: Library\Artifacts\50\5093bde4c0fab8d88afb7b1c3a90f3fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\51\511df7203f2f263d70a75d488b91d4b6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\51\511df7203f2f263d70a75d488b91d4b6
+    projectPath: Library\Artifacts\51\511df7203f2f263d70a75d488b91d4b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\51\516538bedf6116b5758c62520503b0d8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\51\516538bedf6116b5758c62520503b0d8
+    projectPath: Library\Artifacts\51\516538bedf6116b5758c62520503b0d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\51\51e9fd8b90392dae256a6c34e147f8ce
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\51\51e9fd8b90392dae256a6c34e147f8ce
+    projectPath: Library\Artifacts\51\51e9fd8b90392dae256a6c34e147f8ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\52\52922d21d7bdc55678337208b6ecccdd
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\52\52922d21d7bdc55678337208b6ecccdd
+    projectPath: Library\Artifacts\52\52922d21d7bdc55678337208b6ecccdd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\52\52a57184d5a3149b188bbf0f182b0d8a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\52\52a57184d5a3149b188bbf0f182b0d8a
+    projectPath: Library\Artifacts\52\52a57184d5a3149b188bbf0f182b0d8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\53\537ca4d64b4d61164933d8d7c3ffc889
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\53\537ca4d64b4d61164933d8d7c3ffc889
+    projectPath: Library\Artifacts\53\537ca4d64b4d61164933d8d7c3ffc889
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\54\54491195384da5a55e786416f11780ea
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\54\54491195384da5a55e786416f11780ea
+    projectPath: Library\Artifacts\54\54491195384da5a55e786416f11780ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\54\54e8ebee63cef06525b21d1f4fb940be
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\54\54e8ebee63cef06525b21d1f4fb940be
+    projectPath: Library\Artifacts\54\54e8ebee63cef06525b21d1f4fb940be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\55\553055f622710babf09faa7b17f90bfb
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\55\553055f622710babf09faa7b17f90bfb
+    projectPath: Library\Artifacts\55\553055f622710babf09faa7b17f90bfb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\55\55965dbac310c7cb73f7a69369afe459
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\55\55965dbac310c7cb73f7a69369afe459
+    projectPath: Library\Artifacts\55\55965dbac310c7cb73f7a69369afe459
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\56\5641127609677fa047d929d72ed4343c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\56\5641127609677fa047d929d72ed4343c
+    projectPath: Library\Artifacts\56\5641127609677fa047d929d72ed4343c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\57\570fa2ba432b13e2dc5293ec1777a132
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\57\570fa2ba432b13e2dc5293ec1777a132
+    projectPath: Library\Artifacts\57\570fa2ba432b13e2dc5293ec1777a132
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\57\574c7823a370f83d8259a7208ae9819c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\57\574c7823a370f83d8259a7208ae9819c
+    projectPath: Library\Artifacts\57\574c7823a370f83d8259a7208ae9819c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\59\59274b27984ae770794a3d9d4911b87c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\59\59274b27984ae770794a3d9d4911b87c
+    projectPath: Library\Artifacts\59\59274b27984ae770794a3d9d4911b87c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\59\59b85472a05a0d12309911d00de65db2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\59\59b85472a05a0d12309911d00de65db2
+    projectPath: Library\Artifacts\59\59b85472a05a0d12309911d00de65db2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\59\59d67787ee6ce76b8b932dee985d0646
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\59\59d67787ee6ce76b8b932dee985d0646
+    projectPath: Library\Artifacts\59\59d67787ee6ce76b8b932dee985d0646
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5b\5b7ed7168f923f8f33b0479de27f5e86
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5b\5b7ed7168f923f8f33b0479de27f5e86
+    projectPath: Library\Artifacts\5b\5b7ed7168f923f8f33b0479de27f5e86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5b\5be238ba79fcd942b18b5600bd6484ab
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5b\5be238ba79fcd942b18b5600bd6484ab
+    projectPath: Library\Artifacts\5b\5be238ba79fcd942b18b5600bd6484ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5e\5e87d620335aa000233d7cada99a0db7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5e\5e87d620335aa000233d7cada99a0db7
+    projectPath: Library\Artifacts\5e\5e87d620335aa000233d7cada99a0db7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5e\5ec1c19bf586f8886bea6edfdee54107
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5e\5ec1c19bf586f8886bea6edfdee54107
+    projectPath: Library\Artifacts\5e\5ec1c19bf586f8886bea6edfdee54107
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5f\5f25a1ea25c28813c5ab87794d40f73a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5f\5f25a1ea25c28813c5ab87794d40f73a
+    projectPath: Library\Artifacts\5f\5f25a1ea25c28813c5ab87794d40f73a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5f\5f4449a6e64685a4f764c5e951f66e50
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5f\5f4449a6e64685a4f764c5e951f66e50
+    projectPath: Library\Artifacts\5f\5f4449a6e64685a4f764c5e951f66e50
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5f\5fe8e26771e22a794c9e90d0a9c3d6b7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5f\5fe8e26771e22a794c9e90d0a9c3d6b7
+    projectPath: Library\Artifacts\5f\5fe8e26771e22a794c9e90d0a9c3d6b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\5f\5ff3fa865a98bf9fa189c84dfe8467fe
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\5f\5ff3fa865a98bf9fa189c84dfe8467fe
+    projectPath: Library\Artifacts\5f\5ff3fa865a98bf9fa189c84dfe8467fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\60\607f01fd52c4056d61ac52ead45a3e29
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\60\607f01fd52c4056d61ac52ead45a3e29
+    projectPath: Library\Artifacts\60\607f01fd52c4056d61ac52ead45a3e29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\64\6425977fb60758825681874bd4c8323f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\64\6425977fb60758825681874bd4c8323f
+    projectPath: Library\Artifacts\64\6425977fb60758825681874bd4c8323f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\65\653822d40521d782efc8401e1ae87ff8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\65\653822d40521d782efc8401e1ae87ff8
+    projectPath: Library\Artifacts\65\653822d40521d782efc8401e1ae87ff8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\65\65d0b7195c7b462cbe6ebeac6c45714a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\65\65d0b7195c7b462cbe6ebeac6c45714a
+    projectPath: Library\Artifacts\65\65d0b7195c7b462cbe6ebeac6c45714a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\67\67189a520302e1599ad68396a78d6497
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\67\67189a520302e1599ad68396a78d6497
+    projectPath: Library\Artifacts\67\67189a520302e1599ad68396a78d6497
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\67\67a8fb3828bb699b228f38b0f48a0df2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\67\67a8fb3828bb699b228f38b0f48a0df2
+    projectPath: Library\Artifacts\67\67a8fb3828bb699b228f38b0f48a0df2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\68\68e87d73e2f4641743f8e83fb2b79ba9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\68\68e87d73e2f4641743f8e83fb2b79ba9
+    projectPath: Library\Artifacts\68\68e87d73e2f4641743f8e83fb2b79ba9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\69\693864a3880af6edf564303e0a6d75e1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\69\693864a3880af6edf564303e0a6d75e1
+    projectPath: Library\Artifacts\69\693864a3880af6edf564303e0a6d75e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6a\6a60e6c78f92d28a50bb45f046168c19
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6a\6a60e6c78f92d28a50bb45f046168c19
+    projectPath: Library\Artifacts\6a\6a60e6c78f92d28a50bb45f046168c19
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6b\6bb62a21eef037fce02cff998f7ec028
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6b\6bb62a21eef037fce02cff998f7ec028
+    projectPath: Library\Artifacts\6b\6bb62a21eef037fce02cff998f7ec028
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6c\6cfb888da608b2bee8ebd94c0b16f4b6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6c\6cfb888da608b2bee8ebd94c0b16f4b6
+    projectPath: Library\Artifacts\6c\6cfb888da608b2bee8ebd94c0b16f4b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6e\6e5ccc7b78ca51b546716f1fd4777782
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6e\6e5ccc7b78ca51b546716f1fd4777782
+    projectPath: Library\Artifacts\6e\6e5ccc7b78ca51b546716f1fd4777782
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6f\6f158ac7d9b8fbf3b5efdb72941d86e1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6f\6f158ac7d9b8fbf3b5efdb72941d86e1
+    projectPath: Library\Artifacts\6f\6f158ac7d9b8fbf3b5efdb72941d86e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\6f\6fae9db8315ec1bf56cb9fdcca498e8b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\6f\6fae9db8315ec1bf56cb9fdcca498e8b
+    projectPath: Library\Artifacts\6f\6fae9db8315ec1bf56cb9fdcca498e8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\71\71f0b3910e14a08c9a02e948102c3447
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\71\71f0b3910e14a08c9a02e948102c3447
+    projectPath: Library\Artifacts\71\71f0b3910e14a08c9a02e948102c3447
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\74\74e550c8bed482e1d5037c3a462064c4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\74\74e550c8bed482e1d5037c3a462064c4
+    projectPath: Library\Artifacts\74\74e550c8bed482e1d5037c3a462064c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\75\7544a23974a81552802de9f639a4c996
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\75\7544a23974a81552802de9f639a4c996
+    projectPath: Library\Artifacts\75\7544a23974a81552802de9f639a4c996
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\75\75ef6bccd91a365e0deab8c07076b50f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\75\75ef6bccd91a365e0deab8c07076b50f
+    projectPath: Library\Artifacts\75\75ef6bccd91a365e0deab8c07076b50f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\76\761297fe4c7f6ea3e627fc86aa87ecb6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\76\761297fe4c7f6ea3e627fc86aa87ecb6
+    projectPath: Library\Artifacts\76\761297fe4c7f6ea3e627fc86aa87ecb6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\76\766a38768813ad8270030f393c6a1835
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\76\766a38768813ad8270030f393c6a1835
+    projectPath: Library\Artifacts\76\766a38768813ad8270030f393c6a1835
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\76\76f501acbacb3d53dca2da7feaafdc59
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\76\76f501acbacb3d53dca2da7feaafdc59
+    projectPath: Library\Artifacts\76\76f501acbacb3d53dca2da7feaafdc59
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\77\77edb4a78a86ee2ecbd45e6a2a41f2ee
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\77\77edb4a78a86ee2ecbd45e6a2a41f2ee
+    projectPath: Library\Artifacts\77\77edb4a78a86ee2ecbd45e6a2a41f2ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\79\797c8975bc0606c73a525a71394a3ee2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\79\797c8975bc0606c73a525a71394a3ee2
+    projectPath: Library\Artifacts\79\797c8975bc0606c73a525a71394a3ee2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\79\79df4c67c30fa4151049e8365fbfd0b9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\79\79df4c67c30fa4151049e8365fbfd0b9
+    projectPath: Library\Artifacts\79\79df4c67c30fa4151049e8365fbfd0b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7a\7a1313de5f6d3ddfd136b80bf2ef47e1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7a\7a1313de5f6d3ddfd136b80bf2ef47e1
+    projectPath: Library\Artifacts\7a\7a1313de5f6d3ddfd136b80bf2ef47e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7a\7aed0cc6dd8f79b349585cec17429c37
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7a\7aed0cc6dd8f79b349585cec17429c37
+    projectPath: Library\Artifacts\7a\7aed0cc6dd8f79b349585cec17429c37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7b\7b2374aa90867d807215f4a05f81f5fd
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7b\7b2374aa90867d807215f4a05f81f5fd
+    projectPath: Library\Artifacts\7b\7b2374aa90867d807215f4a05f81f5fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7c\7ca19a16d6874741dec9e89eddf346d5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7c\7ca19a16d6874741dec9e89eddf346d5
+    projectPath: Library\Artifacts\7c\7ca19a16d6874741dec9e89eddf346d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7e\7e0d89d537d9912965197907c7271ea8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7e\7e0d89d537d9912965197907c7271ea8
+    projectPath: Library\Artifacts\7e\7e0d89d537d9912965197907c7271ea8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7e\7eabf9f7e4121ba37bb00386c8ee02c7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7e\7eabf9f7e4121ba37bb00386c8ee02c7
+    projectPath: Library\Artifacts\7e\7eabf9f7e4121ba37bb00386c8ee02c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\7f\7f8d552f1a0fe9aa0d0fabb4f16ebb6b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\7f\7f8d552f1a0fe9aa0d0fabb4f16ebb6b
+    projectPath: Library\Artifacts\7f\7f8d552f1a0fe9aa0d0fabb4f16ebb6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\80\802515e0dd1afa109caff4895c177820
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\80\802515e0dd1afa109caff4895c177820
+    projectPath: Library\Artifacts\80\802515e0dd1afa109caff4895c177820
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\81\8111628331f3a728f0e4ee1caa69b9c8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\81\8111628331f3a728f0e4ee1caa69b9c8
+    projectPath: Library\Artifacts\81\8111628331f3a728f0e4ee1caa69b9c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\83\831a5296b640d0d57283898f13e268b0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\83\831a5296b640d0d57283898f13e268b0
+    projectPath: Library\Artifacts\83\831a5296b640d0d57283898f13e268b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\84\846456a558b6007960be6fef97ec6002
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\84\846456a558b6007960be6fef97ec6002
+    projectPath: Library\Artifacts\84\846456a558b6007960be6fef97ec6002
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\85\853cf3c60529d98bb51e00dee2240df6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\85\853cf3c60529d98bb51e00dee2240df6
+    projectPath: Library\Artifacts\85\853cf3c60529d98bb51e00dee2240df6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\87\8734eb6551a475dca84179e600c2a3c5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\87\8734eb6551a475dca84179e600c2a3c5
+    projectPath: Library\Artifacts\87\8734eb6551a475dca84179e600c2a3c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\88\88325503b6a82b975b361b045d3e2e82
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\88\88325503b6a82b975b361b045d3e2e82
+    projectPath: Library\Artifacts\88\88325503b6a82b975b361b045d3e2e82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\88\883d26059268d18ec9b4b094ac944fc7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\88\883d26059268d18ec9b4b094ac944fc7
+    projectPath: Library\Artifacts\88\883d26059268d18ec9b4b094ac944fc7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\89\8937ec75d1855fbfbb3769d36191d87f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\89\8937ec75d1855fbfbb3769d36191d87f
+    projectPath: Library\Artifacts\89\8937ec75d1855fbfbb3769d36191d87f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\89\89433d3a085037d0a226e2938f6d3f86
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\89\89433d3a085037d0a226e2938f6d3f86
+    projectPath: Library\Artifacts\89\89433d3a085037d0a226e2938f6d3f86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\89\896256d1d167c686e2a154d274c30604
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\89\896256d1d167c686e2a154d274c30604
+    projectPath: Library\Artifacts\89\896256d1d167c686e2a154d274c30604
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8a\8a834eef150d2eb9875d76ab2eaf7ad6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8a\8a834eef150d2eb9875d76ab2eaf7ad6
+    projectPath: Library\Artifacts\8a\8a834eef150d2eb9875d76ab2eaf7ad6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8b\8b2e5c32fb40b40cec574b625ad34425
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8b\8b2e5c32fb40b40cec574b625ad34425
+    projectPath: Library\Artifacts\8b\8b2e5c32fb40b40cec574b625ad34425
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8b\8b41204d61501bb078bece46081e0b2d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8b\8b41204d61501bb078bece46081e0b2d
+    projectPath: Library\Artifacts\8b\8b41204d61501bb078bece46081e0b2d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8d\8d93e309c741d64e35ee59454c9a0e3e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8d\8d93e309c741d64e35ee59454c9a0e3e
+    projectPath: Library\Artifacts\8d\8d93e309c741d64e35ee59454c9a0e3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8d\8dfc1a0a521abfaaf3fc67469bebc9bb
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8d\8dfc1a0a521abfaaf3fc67469bebc9bb
+    projectPath: Library\Artifacts\8d\8dfc1a0a521abfaaf3fc67469bebc9bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8e\8e59388c000694c046da303e0d338046
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8e\8e59388c000694c046da303e0d338046
+    projectPath: Library\Artifacts\8e\8e59388c000694c046da303e0d338046
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\8f\8fdb441acd627c4cde2b535549c624c7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\8f\8fdb441acd627c4cde2b535549c624c7
+    projectPath: Library\Artifacts\8f\8fdb441acd627c4cde2b535549c624c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\90\9012716ffa8c227cd5fe7a92e7225c37
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\90\9012716ffa8c227cd5fe7a92e7225c37
+    projectPath: Library\Artifacts\90\9012716ffa8c227cd5fe7a92e7225c37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\90\903a391576ae1c41fb8987c301e6da4e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\90\903a391576ae1c41fb8987c301e6da4e
+    projectPath: Library\Artifacts\90\903a391576ae1c41fb8987c301e6da4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\92\92c6387f64abbe2f5dfac58d535bffc9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\92\92c6387f64abbe2f5dfac58d535bffc9
+    projectPath: Library\Artifacts\92\92c6387f64abbe2f5dfac58d535bffc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\92\92d18f882f2d1c9d8b367b7b5eab8818
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\92\92d18f882f2d1c9d8b367b7b5eab8818
+    projectPath: Library\Artifacts\92\92d18f882f2d1c9d8b367b7b5eab8818
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\92\92f81004cf9bbd37dfc8e2434594cd66
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\92\92f81004cf9bbd37dfc8e2434594cd66
+    projectPath: Library\Artifacts\92\92f81004cf9bbd37dfc8e2434594cd66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\93\9397cd595c17653664580d37a210be83
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\93\9397cd595c17653664580d37a210be83
+    projectPath: Library\Artifacts\93\9397cd595c17653664580d37a210be83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\94\945bf71a1787f596f0cb66522b8f7a43
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\94\945bf71a1787f596f0cb66522b8f7a43
+    projectPath: Library\Artifacts\94\945bf71a1787f596f0cb66522b8f7a43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\94\94f7daae57ecb4dd06881b367788bd0c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\94\94f7daae57ecb4dd06881b367788bd0c
+    projectPath: Library\Artifacts\94\94f7daae57ecb4dd06881b367788bd0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\95\95ab90e5d575b0c3e537ec703fec7211
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\95\95ab90e5d575b0c3e537ec703fec7211
+    projectPath: Library\Artifacts\95\95ab90e5d575b0c3e537ec703fec7211
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\95\95b5a29ed5656e331f2a039b2c745e7d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\95\95b5a29ed5656e331f2a039b2c745e7d
+    projectPath: Library\Artifacts\95\95b5a29ed5656e331f2a039b2c745e7d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\95\95d47b6d0adcf6692e184696890a9c57
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\95\95d47b6d0adcf6692e184696890a9c57
+    projectPath: Library\Artifacts\95\95d47b6d0adcf6692e184696890a9c57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\96\9610d3fe61dae2251bfb6cb36b5032b8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\96\9610d3fe61dae2251bfb6cb36b5032b8
+    projectPath: Library\Artifacts\96\9610d3fe61dae2251bfb6cb36b5032b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\96\968ff41dd924d02bdb3ebf011b9b1413
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\96\968ff41dd924d02bdb3ebf011b9b1413
+    projectPath: Library\Artifacts\96\968ff41dd924d02bdb3ebf011b9b1413
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\97\979aa439fc73dca888749b5895c46eec
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\97\979aa439fc73dca888749b5895c46eec
+    projectPath: Library\Artifacts\97\979aa439fc73dca888749b5895c46eec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\98\98083dd773d2eb32479acf5f0e21c959
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\98\98083dd773d2eb32479acf5f0e21c959
+    projectPath: Library\Artifacts\98\98083dd773d2eb32479acf5f0e21c959
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\98\985697362ebcc76b7b656fd4783dfeac
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\98\985697362ebcc76b7b656fd4783dfeac
+    projectPath: Library\Artifacts\98\985697362ebcc76b7b656fd4783dfeac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\99\9917db00ad9da4810d14d9969f66d1c8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\99\9917db00ad9da4810d14d9969f66d1c8
+    projectPath: Library\Artifacts\99\9917db00ad9da4810d14d9969f66d1c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\99\99d630407604c57c93eedc6473ecae6f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\99\99d630407604c57c93eedc6473ecae6f
+    projectPath: Library\Artifacts\99\99d630407604c57c93eedc6473ecae6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9a\9a16a636d88d93c6553e91353a00cde0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9a\9a16a636d88d93c6553e91353a00cde0
+    projectPath: Library\Artifacts\9a\9a16a636d88d93c6553e91353a00cde0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9a\9ad72eed041efb66c890b990612c7149
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9a\9ad72eed041efb66c890b990612c7149
+    projectPath: Library\Artifacts\9a\9ad72eed041efb66c890b990612c7149
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9a\9af816d3c6bed22999fb4431bdf35727
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9a\9af816d3c6bed22999fb4431bdf35727
+    projectPath: Library\Artifacts\9a\9af816d3c6bed22999fb4431bdf35727
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9c\9c2ae2469efef0243d783d09d3e0799b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9c\9c2ae2469efef0243d783d09d3e0799b
+    projectPath: Library\Artifacts\9c\9c2ae2469efef0243d783d09d3e0799b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9c\9c2d337ec54126b1d089b62318fbe34d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9c\9c2d337ec54126b1d089b62318fbe34d
+    projectPath: Library\Artifacts\9c\9c2d337ec54126b1d089b62318fbe34d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9d\9d49aabf44ee29284366535e276a2be1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9d\9d49aabf44ee29284366535e276a2be1
+    projectPath: Library\Artifacts\9d\9d49aabf44ee29284366535e276a2be1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9f\9f4e5c96a292c6500547132f1eee53c4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9f\9f4e5c96a292c6500547132f1eee53c4
+    projectPath: Library\Artifacts\9f\9f4e5c96a292c6500547132f1eee53c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\9f\9fc58a264583aa2ee2afc86e633cc023
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\9f\9fc58a264583aa2ee2afc86e633cc023
+    projectPath: Library\Artifacts\9f\9fc58a264583aa2ee2afc86e633cc023
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a0\a00f3b051a9afd6bd046833446f06c5a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a0\a00f3b051a9afd6bd046833446f06c5a
+    projectPath: Library\Artifacts\a0\a00f3b051a9afd6bd046833446f06c5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a0\a03c57fdc3d7c9da1f5f46d48ccdb0be
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a0\a03c57fdc3d7c9da1f5f46d48ccdb0be
+    projectPath: Library\Artifacts\a0\a03c57fdc3d7c9da1f5f46d48ccdb0be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a0\a05c90adf6eebdca449d4cad0fbce3f4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a0\a05c90adf6eebdca449d4cad0fbce3f4
+    projectPath: Library\Artifacts\a0\a05c90adf6eebdca449d4cad0fbce3f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a0\a0827519689af42ccab0dd62c6d7bee7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a0\a0827519689af42ccab0dd62c6d7bee7
+    projectPath: Library\Artifacts\a0\a0827519689af42ccab0dd62c6d7bee7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a1\a10f9ee23a5ae7f4b4019ed2f1c715d5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a1\a10f9ee23a5ae7f4b4019ed2f1c715d5
+    projectPath: Library\Artifacts\a1\a10f9ee23a5ae7f4b4019ed2f1c715d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a1\a1848b62737087ede911b19e44d45aac
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a1\a1848b62737087ede911b19e44d45aac
+    projectPath: Library\Artifacts\a1\a1848b62737087ede911b19e44d45aac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a3\a38e3e998f3c321dfd23ebbf0cde416e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a3\a38e3e998f3c321dfd23ebbf0cde416e
+    projectPath: Library\Artifacts\a3\a38e3e998f3c321dfd23ebbf0cde416e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a4\a43e471c7569f153ead9eeaab99f78c2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a4\a43e471c7569f153ead9eeaab99f78c2
+    projectPath: Library\Artifacts\a4\a43e471c7569f153ead9eeaab99f78c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a5\a54d699c3d17dc7ae71dcd0f14d3a7b8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a5\a54d699c3d17dc7ae71dcd0f14d3a7b8
+    projectPath: Library\Artifacts\a5\a54d699c3d17dc7ae71dcd0f14d3a7b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a5\a58587a873d14c388a8c0ce72154599c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a5\a58587a873d14c388a8c0ce72154599c
+    projectPath: Library\Artifacts\a5\a58587a873d14c388a8c0ce72154599c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a6\a6c3e3f07699e28cb5794bdb51d327ef
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a6\a6c3e3f07699e28cb5794bdb51d327ef
+    projectPath: Library\Artifacts\a6\a6c3e3f07699e28cb5794bdb51d327ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a7\a7debfc9297682be7e5dd132cd21bc41
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a7\a7debfc9297682be7e5dd132cd21bc41
+    projectPath: Library\Artifacts\a7\a7debfc9297682be7e5dd132cd21bc41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a8\a841f15c8e5d99d2a22ea8010c67244c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a8\a841f15c8e5d99d2a22ea8010c67244c
+    projectPath: Library\Artifacts\a8\a841f15c8e5d99d2a22ea8010c67244c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a8\a87e01b6b8afc61e2f1e8a029e6f8da6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a8\a87e01b6b8afc61e2f1e8a029e6f8da6
+    projectPath: Library\Artifacts\a8\a87e01b6b8afc61e2f1e8a029e6f8da6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\a8\a89f676f3abd4488cac52112c548c1f0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\a8\a89f676f3abd4488cac52112c548c1f0
+    projectPath: Library\Artifacts\a8\a89f676f3abd4488cac52112c548c1f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\aa\aae54ebca0c210ec100123ed8c06349e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\aa\aae54ebca0c210ec100123ed8c06349e
+    projectPath: Library\Artifacts\aa\aae54ebca0c210ec100123ed8c06349e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ab\ab047bea839302007a801166810be518
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ab\ab047bea839302007a801166810be518
+    projectPath: Library\Artifacts\ab\ab047bea839302007a801166810be518
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ac\acae0909712336267d63472b4b1ea275
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ac\acae0909712336267d63472b4b1ea275
+    projectPath: Library\Artifacts\ac\acae0909712336267d63472b4b1ea275
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ac\acce87f47f5c4f54717d74c05b8570c9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ac\acce87f47f5c4f54717d74c05b8570c9
+    projectPath: Library\Artifacts\ac\acce87f47f5c4f54717d74c05b8570c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ae\ae3b017c2ae7e6882607043eb89f7ada
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ae\ae3b017c2ae7e6882607043eb89f7ada
+    projectPath: Library\Artifacts\ae\ae3b017c2ae7e6882607043eb89f7ada
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ae\aef29588ae8f5a869a7c21e9b4bf9fcf
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ae\aef29588ae8f5a869a7c21e9b4bf9fcf
+    projectPath: Library\Artifacts\ae\aef29588ae8f5a869a7c21e9b4bf9fcf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b0\b05bc94f063a4ae4f93c774997d44b47
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b0\b05bc94f063a4ae4f93c774997d44b47
+    projectPath: Library\Artifacts\b0\b05bc94f063a4ae4f93c774997d44b47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b0\b07d5deb69c147046cd41f851915d93c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b0\b07d5deb69c147046cd41f851915d93c
+    projectPath: Library\Artifacts\b0\b07d5deb69c147046cd41f851915d93c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b0\b0971d9f8c6156ce94038cd27b5a968b
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b0\b0971d9f8c6156ce94038cd27b5a968b
+    projectPath: Library\Artifacts\b0\b0971d9f8c6156ce94038cd27b5a968b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b1\b164357fa09d42ad73cb6d97b0ac5868
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b1\b164357fa09d42ad73cb6d97b0ac5868
+    projectPath: Library\Artifacts\b1\b164357fa09d42ad73cb6d97b0ac5868
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b1\b1bbda47bd8d0f6342198e5dea78a701
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b1\b1bbda47bd8d0f6342198e5dea78a701
+    projectPath: Library\Artifacts\b1\b1bbda47bd8d0f6342198e5dea78a701
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b2\b241810cc965aa1e9c4cfdb4ffaf3732
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b2\b241810cc965aa1e9c4cfdb4ffaf3732
+    projectPath: Library\Artifacts\b2\b241810cc965aa1e9c4cfdb4ffaf3732
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b4\b412117509f7178ac24dbf302a6503ea
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b4\b412117509f7178ac24dbf302a6503ea
+    projectPath: Library\Artifacts\b4\b412117509f7178ac24dbf302a6503ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b4\b4335b6370b5aa734f08183e7ee9df0d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b4\b4335b6370b5aa734f08183e7ee9df0d
+    projectPath: Library\Artifacts\b4\b4335b6370b5aa734f08183e7ee9df0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b4\b47fbc218ec5a09320fc03856468b472
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b4\b47fbc218ec5a09320fc03856468b472
+    projectPath: Library\Artifacts\b4\b47fbc218ec5a09320fc03856468b472
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b5\b5eb7af67ebc3f59441393d1429e6961
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b5\b5eb7af67ebc3f59441393d1429e6961
+    projectPath: Library\Artifacts\b5\b5eb7af67ebc3f59441393d1429e6961
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b6\b623312481c88a2e34a1b543f2e8ecbe
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b6\b623312481c88a2e34a1b543f2e8ecbe
+    projectPath: Library\Artifacts\b6\b623312481c88a2e34a1b543f2e8ecbe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b6\b650ca7660219f1be39ac4b009c4ffed
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b6\b650ca7660219f1be39ac4b009c4ffed
+    projectPath: Library\Artifacts\b6\b650ca7660219f1be39ac4b009c4ffed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b6\b6df92e3d2d21edf3cb5595ad64ab1ef
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b6\b6df92e3d2d21edf3cb5595ad64ab1ef
+    projectPath: Library\Artifacts\b6\b6df92e3d2d21edf3cb5595ad64ab1ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b6\b6e62f0726140d0a365d53d5681eda86
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b6\b6e62f0726140d0a365d53d5681eda86
+    projectPath: Library\Artifacts\b6\b6e62f0726140d0a365d53d5681eda86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b7\b719092ea96467ea8794dd5f4420b302
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b7\b719092ea96467ea8794dd5f4420b302
+    projectPath: Library\Artifacts\b7\b719092ea96467ea8794dd5f4420b302
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\b8\b8237c765db4b74ab494fe5a2e2c4e0c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\b8\b8237c765db4b74ab494fe5a2e2c4e0c
+    projectPath: Library\Artifacts\b8\b8237c765db4b74ab494fe5a2e2c4e0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ba\baccb58dcabeaabf87e2c6e31d7a4ed7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ba\baccb58dcabeaabf87e2c6e31d7a4ed7
+    projectPath: Library\Artifacts\ba\baccb58dcabeaabf87e2c6e31d7a4ed7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bc\bc7602a56841ba3cc2815a3fcacb48c2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bc\bc7602a56841ba3cc2815a3fcacb48c2
+    projectPath: Library\Artifacts\bc\bc7602a56841ba3cc2815a3fcacb48c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bc\bc85a416ddf612a4285c7f0c619e3bc1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bc\bc85a416ddf612a4285c7f0c619e3bc1
+    projectPath: Library\Artifacts\bc\bc85a416ddf612a4285c7f0c619e3bc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bd\bd685ec4f6d5de8c607419c6275038b0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bd\bd685ec4f6d5de8c607419c6275038b0
+    projectPath: Library\Artifacts\bd\bd685ec4f6d5de8c607419c6275038b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bd\bd74c9911bf92ac6a4ddef867fda32ac
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bd\bd74c9911bf92ac6a4ddef867fda32ac
+    projectPath: Library\Artifacts\bd\bd74c9911bf92ac6a4ddef867fda32ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\be\be14b0b49b89c92809cb5a9d3e5c5cf7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\be\be14b0b49b89c92809cb5a9d3e5c5cf7
+    projectPath: Library\Artifacts\be\be14b0b49b89c92809cb5a9d3e5c5cf7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\be\be2235c9f4e02e02b182dc862da26104
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\be\be2235c9f4e02e02b182dc862da26104
+    projectPath: Library\Artifacts\be\be2235c9f4e02e02b182dc862da26104
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\be\be5eadf8c56a80f484b64420293b32a3
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\be\be5eadf8c56a80f484b64420293b32a3
+    projectPath: Library\Artifacts\be\be5eadf8c56a80f484b64420293b32a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\be\be6b2fdd42eec6258620b629a2e040f0
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\be\be6b2fdd42eec6258620b629a2e040f0
+    projectPath: Library\Artifacts\be\be6b2fdd42eec6258620b629a2e040f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\bf\bf8c1ba873de37b51be3cf1f32523103
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\bf\bf8c1ba873de37b51be3cf1f32523103
+    projectPath: Library\Artifacts\bf\bf8c1ba873de37b51be3cf1f32523103
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c0\c06beddc1545e1428354a3fad300d211
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c0\c06beddc1545e1428354a3fad300d211
+    projectPath: Library\Artifacts\c0\c06beddc1545e1428354a3fad300d211
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c0\c0c43cd90fbae723d3c2c0b24e78293d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c0\c0c43cd90fbae723d3c2c0b24e78293d
+    projectPath: Library\Artifacts\c0\c0c43cd90fbae723d3c2c0b24e78293d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c1\c13a400c5b72dbe17bd6c61163d9a519
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c1\c13a400c5b72dbe17bd6c61163d9a519
+    projectPath: Library\Artifacts\c1\c13a400c5b72dbe17bd6c61163d9a519
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c1\c1e0a9a01de87d26d5e44eee6cd0ed68
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c1\c1e0a9a01de87d26d5e44eee6cd0ed68
+    projectPath: Library\Artifacts\c1\c1e0a9a01de87d26d5e44eee6cd0ed68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c2\c2681cb9eb0451944565b85521b7964f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c2\c2681cb9eb0451944565b85521b7964f
+    projectPath: Library\Artifacts\c2\c2681cb9eb0451944565b85521b7964f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c2\c2d02d5eef0cd9c552de86d77ebab4ad
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c2\c2d02d5eef0cd9c552de86d77ebab4ad
+    projectPath: Library\Artifacts\c2\c2d02d5eef0cd9c552de86d77ebab4ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c3\c3ae974e8017af9c3f0bb331e7625e1e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c3\c3ae974e8017af9c3f0bb331e7625e1e
+    projectPath: Library\Artifacts\c3\c3ae974e8017af9c3f0bb331e7625e1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c4\c401c8c3dd57805b1189e1a17c70710e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c4\c401c8c3dd57805b1189e1a17c70710e
+    projectPath: Library\Artifacts\c4\c401c8c3dd57805b1189e1a17c70710e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c4\c45d04242e14befef21325827d23ec25
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c4\c45d04242e14befef21325827d23ec25
+    projectPath: Library\Artifacts\c4\c45d04242e14befef21325827d23ec25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c4\c47d8cbb80dfa7ff764cbe4a1d48cf8a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c4\c47d8cbb80dfa7ff764cbe4a1d48cf8a
+    projectPath: Library\Artifacts\c4\c47d8cbb80dfa7ff764cbe4a1d48cf8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c4\c4a0967c03b69dcf8f92dc52be753378
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c4\c4a0967c03b69dcf8f92dc52be753378
+    projectPath: Library\Artifacts\c4\c4a0967c03b69dcf8f92dc52be753378
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c6\c6019fe75bbcf862adee8f3bc831a91f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c6\c6019fe75bbcf862adee8f3bc831a91f
+    projectPath: Library\Artifacts\c6\c6019fe75bbcf862adee8f3bc831a91f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c6\c6117165aa87c114ac5507ff1560e883
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c6\c6117165aa87c114ac5507ff1560e883
+    projectPath: Library\Artifacts\c6\c6117165aa87c114ac5507ff1560e883
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c6\c6214c5efec7c5cf22b910dabb19677e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c6\c6214c5efec7c5cf22b910dabb19677e
+    projectPath: Library\Artifacts\c6\c6214c5efec7c5cf22b910dabb19677e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c6\c65ec624f9e25c51973461adc69eb44f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c6\c65ec624f9e25c51973461adc69eb44f
+    projectPath: Library\Artifacts\c6\c65ec624f9e25c51973461adc69eb44f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c6\c683d67044c3b098984f6608153bdc0c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c6\c683d67044c3b098984f6608153bdc0c
+    projectPath: Library\Artifacts\c6\c683d67044c3b098984f6608153bdc0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c7\c77916c635105bafdd79a9ad7286f6ea
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c7\c77916c635105bafdd79a9ad7286f6ea
+    projectPath: Library\Artifacts\c7\c77916c635105bafdd79a9ad7286f6ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\c9\c991f4e4a3ee51cd49806e32e001b1b2
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\c9\c991f4e4a3ee51cd49806e32e001b1b2
+    projectPath: Library\Artifacts\c9\c991f4e4a3ee51cd49806e32e001b1b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ca\ca603adaefbb7619ebfddf19605763d7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ca\ca603adaefbb7619ebfddf19605763d7
+    projectPath: Library\Artifacts\ca\ca603adaefbb7619ebfddf19605763d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ca\ca6335eacf38a37baacd418b2ca1936e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ca\ca6335eacf38a37baacd418b2ca1936e
+    projectPath: Library\Artifacts\ca\ca6335eacf38a37baacd418b2ca1936e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ca\caa679813c221849a912da0eb2ec133a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ca\caa679813c221849a912da0eb2ec133a
+    projectPath: Library\Artifacts\ca\caa679813c221849a912da0eb2ec133a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ca\cab8b3c3b3a337d6a39d4c89e7ac2d49
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ca\cab8b3c3b3a337d6a39d4c89e7ac2d49
+    projectPath: Library\Artifacts\ca\cab8b3c3b3a337d6a39d4c89e7ac2d49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\cb\cb628cc055d6f2fedee74afebc36d4a6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\cb\cb628cc055d6f2fedee74afebc36d4a6
+    projectPath: Library\Artifacts\cb\cb628cc055d6f2fedee74afebc36d4a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\cb\cbae88dbcd3f11d389b2112235fbd8a6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\cb\cbae88dbcd3f11d389b2112235fbd8a6
+    projectPath: Library\Artifacts\cb\cbae88dbcd3f11d389b2112235fbd8a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\cd\cd469f853e68f374ebfe0b794a839196
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\cd\cd469f853e68f374ebfe0b794a839196
+    projectPath: Library\Artifacts\cd\cd469f853e68f374ebfe0b794a839196
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ce\ce9aefb7e43a3761e7a9a5a43bfdb845
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ce\ce9aefb7e43a3761e7a9a5a43bfdb845
+    projectPath: Library\Artifacts\ce\ce9aefb7e43a3761e7a9a5a43bfdb845
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ce\ceeed963fe1908ad334536e3df269c7f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ce\ceeed963fe1908ad334536e3df269c7f
+    projectPath: Library\Artifacts\ce\ceeed963fe1908ad334536e3df269c7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\cf\cff2ee53376c50806ff38f44753d8ca3
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\cf\cff2ee53376c50806ff38f44753d8ca3
+    projectPath: Library\Artifacts\cf\cff2ee53376c50806ff38f44753d8ca3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d0\d01a3fbac498fa88c0b938c0fcc8e9c8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d0\d01a3fbac498fa88c0b938c0fcc8e9c8
+    projectPath: Library\Artifacts\d0\d01a3fbac498fa88c0b938c0fcc8e9c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d0\d0d51abf52bbb143921379db3479ef23
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d0\d0d51abf52bbb143921379db3479ef23
+    projectPath: Library\Artifacts\d0\d0d51abf52bbb143921379db3479ef23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d1\d136f71c024d25b3213e8179d23cd1d4
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d1\d136f71c024d25b3213e8179d23cd1d4
+    projectPath: Library\Artifacts\d1\d136f71c024d25b3213e8179d23cd1d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d1\d19e95df2291f6bb8f98dcb3e4d7e60f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d1\d19e95df2291f6bb8f98dcb3e4d7e60f
+    projectPath: Library\Artifacts\d1\d19e95df2291f6bb8f98dcb3e4d7e60f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d2\d252aa0bd7e8eb036f88181244847754
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d2\d252aa0bd7e8eb036f88181244847754
+    projectPath: Library\Artifacts\d2\d252aa0bd7e8eb036f88181244847754
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d7\d71a5b1ad5bf2a3170a477b698fe6536
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d7\d71a5b1ad5bf2a3170a477b698fe6536
+    projectPath: Library\Artifacts\d7\d71a5b1ad5bf2a3170a477b698fe6536
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d8\d86a7705d6bfb443c057ced0d8c09135
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d8\d86a7705d6bfb443c057ced0d8c09135
+    projectPath: Library\Artifacts\d8\d86a7705d6bfb443c057ced0d8c09135
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d8\d88cc660d2249b4294eb1016d2820367
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d8\d88cc660d2249b4294eb1016d2820367
+    projectPath: Library\Artifacts\d8\d88cc660d2249b4294eb1016d2820367
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d8\d8d89a671885b8c04b966c0c5a3551fa
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d8\d8d89a671885b8c04b966c0c5a3551fa
+    projectPath: Library\Artifacts\d8\d8d89a671885b8c04b966c0c5a3551fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d9\d9467bf79bc37adac8298a25bcf90289
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d9\d9467bf79bc37adac8298a25bcf90289
+    projectPath: Library\Artifacts\d9\d9467bf79bc37adac8298a25bcf90289
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\d9\d964a9b1b3024b423be39d97de832f2e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\d9\d964a9b1b3024b423be39d97de832f2e
+    projectPath: Library\Artifacts\d9\d964a9b1b3024b423be39d97de832f2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\da\da1c067f9bed8b53f5709c52f78eff92
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\da\da1c067f9bed8b53f5709c52f78eff92
+    projectPath: Library\Artifacts\da\da1c067f9bed8b53f5709c52f78eff92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\da\da25bd207da32c6d20ae751c3b608396
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\da\da25bd207da32c6d20ae751c3b608396
+    projectPath: Library\Artifacts\da\da25bd207da32c6d20ae751c3b608396
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\da\da747d8f79ddb278e5a89516fc95b1cf
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\da\da747d8f79ddb278e5a89516fc95b1cf
+    projectPath: Library\Artifacts\da\da747d8f79ddb278e5a89516fc95b1cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\da\dab4593c09ba1ef7d77c7dcdb72db4fe
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\da\dab4593c09ba1ef7d77c7dcdb72db4fe
+    projectPath: Library\Artifacts\da\dab4593c09ba1ef7d77c7dcdb72db4fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\dc\dc161151aa5a05a6fa7a1bf8700ee900
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\dc\dc161151aa5a05a6fa7a1bf8700ee900
+    projectPath: Library\Artifacts\dc\dc161151aa5a05a6fa7a1bf8700ee900
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\dc\dc5a3b59940752060fa0e4c09cdf278f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\dc\dc5a3b59940752060fa0e4c09cdf278f
+    projectPath: Library\Artifacts\dc\dc5a3b59940752060fa0e4c09cdf278f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\dc\dcee01ed1fb02b74b531899963c39d31
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\dc\dcee01ed1fb02b74b531899963c39d31
+    projectPath: Library\Artifacts\dc\dcee01ed1fb02b74b531899963c39d31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\dd\dd939cec0eec0d4f047ba433aae527fc
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\dd\dd939cec0eec0d4f047ba433aae527fc
+    projectPath: Library\Artifacts\dd\dd939cec0eec0d4f047ba433aae527fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\de\de3e4a59cc0925771b43c9ebb1acbf2c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\de\de3e4a59cc0925771b43c9ebb1acbf2c
+    projectPath: Library\Artifacts\de\de3e4a59cc0925771b43c9ebb1acbf2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\df\df85facff5ead57ec26696493bd7107f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\df\df85facff5ead57ec26696493bd7107f
+    projectPath: Library\Artifacts\df\df85facff5ead57ec26696493bd7107f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e1\e12c86db0c5a35aedb4f5627e9682920
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e1\e12c86db0c5a35aedb4f5627e9682920
+    projectPath: Library\Artifacts\e1\e12c86db0c5a35aedb4f5627e9682920
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e1\e12e250cc907a426dd14928da77b4c0d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e1\e12e250cc907a426dd14928da77b4c0d
+    projectPath: Library\Artifacts\e1\e12e250cc907a426dd14928da77b4c0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e5\e56a08e729166d59dde7826c669b8b2c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e5\e56a08e729166d59dde7826c669b8b2c
+    projectPath: Library\Artifacts\e5\e56a08e729166d59dde7826c669b8b2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e5\e56c19deeccdb76ef5bf325712d45fa1
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e5\e56c19deeccdb76ef5bf325712d45fa1
+    projectPath: Library\Artifacts\e5\e56c19deeccdb76ef5bf325712d45fa1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e6\e6429a3ed3e8a8750a020b2eabd1c703
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e6\e6429a3ed3e8a8750a020b2eabd1c703
+    projectPath: Library\Artifacts\e6\e6429a3ed3e8a8750a020b2eabd1c703
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e6\e6a8a90fd326d93c13316d61925b8a96
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e6\e6a8a90fd326d93c13316d61925b8a96
+    projectPath: Library\Artifacts\e6\e6a8a90fd326d93c13316d61925b8a96
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e7\e7260fb585f55d29041e626a1e6b52e7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e7\e7260fb585f55d29041e626a1e6b52e7
+    projectPath: Library\Artifacts\e7\e7260fb585f55d29041e626a1e6b52e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e7\e78afbe98cd6c1bf86908f0dbf15a6cf
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e7\e78afbe98cd6c1bf86908f0dbf15a6cf
+    projectPath: Library\Artifacts\e7\e78afbe98cd6c1bf86908f0dbf15a6cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e7\e7d8b9171fdb3cc3df842c32c494ea8f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e7\e7d8b9171fdb3cc3df842c32c494ea8f
+    projectPath: Library\Artifacts\e7\e7d8b9171fdb3cc3df842c32c494ea8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e8\e8f3577ecd30e76573b48092ce3ed52f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e8\e8f3577ecd30e76573b48092ce3ed52f
+    projectPath: Library\Artifacts\e8\e8f3577ecd30e76573b48092ce3ed52f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e9\e936652066fa357960a1e91ddef48f6d
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e9\e936652066fa357960a1e91ddef48f6d
+    projectPath: Library\Artifacts\e9\e936652066fa357960a1e91ddef48f6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e9\e9db87ae1fe07c4b50b6d1eae0d92976
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e9\e9db87ae1fe07c4b50b6d1eae0d92976
+    projectPath: Library\Artifacts\e9\e9db87ae1fe07c4b50b6d1eae0d92976
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\e9\e9f45ff8e696b245c0be53214ed3649f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\e9\e9f45ff8e696b245c0be53214ed3649f
+    projectPath: Library\Artifacts\e9\e9f45ff8e696b245c0be53214ed3649f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ea\ea946c3a52f7dda7bab1bf1149e8c351
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ea\ea946c3a52f7dda7bab1bf1149e8c351
+    projectPath: Library\Artifacts\ea\ea946c3a52f7dda7bab1bf1149e8c351
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ea\ead1d69263eb99d1acd5668fb73b30f6
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ea\ead1d69263eb99d1acd5668fb73b30f6
+    projectPath: Library\Artifacts\ea\ead1d69263eb99d1acd5668fb73b30f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ec\ec1b0922574044de3e9cc6213024bdcd
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ec\ec1b0922574044de3e9cc6213024bdcd
+    projectPath: Library\Artifacts\ec\ec1b0922574044de3e9cc6213024bdcd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ed\edcb83a5ccb10c0b8df814d51bca4241
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ed\edcb83a5ccb10c0b8df814d51bca4241
+    projectPath: Library\Artifacts\ed\edcb83a5ccb10c0b8df814d51bca4241
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ee\ee610710d65da9c67d3925e349171cf3
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ee\ee610710d65da9c67d3925e349171cf3
+    projectPath: Library\Artifacts\ee\ee610710d65da9c67d3925e349171cf3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ee\ee68dc9243b97aadb23b1c142de0a559
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ee\ee68dc9243b97aadb23b1c142de0a559
+    projectPath: Library\Artifacts\ee\ee68dc9243b97aadb23b1c142de0a559
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ef\ef2b0d1975dac7f529c2a3f92e1d77fd
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ef\ef2b0d1975dac7f529c2a3f92e1d77fd
+    projectPath: Library\Artifacts\ef\ef2b0d1975dac7f529c2a3f92e1d77fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f0\f026a52f164b8b4835de8df897f3c23e
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f0\f026a52f164b8b4835de8df897f3c23e
+    projectPath: Library\Artifacts\f0\f026a52f164b8b4835de8df897f3c23e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f0\f0635406a89066fc08352fe6d8d54983
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f0\f0635406a89066fc08352fe6d8d54983
+    projectPath: Library\Artifacts\f0\f0635406a89066fc08352fe6d8d54983
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f1\f13067e8dd5ac6f9167e26345ac90689
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f1\f13067e8dd5ac6f9167e26345ac90689
+    projectPath: Library\Artifacts\f1\f13067e8dd5ac6f9167e26345ac90689
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f1\f19beb82c87b678708096aba52ac9ea7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f1\f19beb82c87b678708096aba52ac9ea7
+    projectPath: Library\Artifacts\f1\f19beb82c87b678708096aba52ac9ea7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f2\f24c93ebff5de7e9cf6005bc7d3d0f82
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f2\f24c93ebff5de7e9cf6005bc7d3d0f82
+    projectPath: Library\Artifacts\f2\f24c93ebff5de7e9cf6005bc7d3d0f82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f2\f2d017713e131e7be4469e84bfa546f8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f2\f2d017713e131e7be4469e84bfa546f8
+    projectPath: Library\Artifacts\f2\f2d017713e131e7be4469e84bfa546f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f3\f32c47efc98b468b9e0fd05b86acb5bc
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f3\f32c47efc98b468b9e0fd05b86acb5bc
+    projectPath: Library\Artifacts\f3\f32c47efc98b468b9e0fd05b86acb5bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f3\f37511f6a6cb7387a88e587342d22293
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f3\f37511f6a6cb7387a88e587342d22293
+    projectPath: Library\Artifacts\f3\f37511f6a6cb7387a88e587342d22293
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f4\f4023b6a6dc0aefeb48848b2573e5f3a
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f4\f4023b6a6dc0aefeb48848b2573e5f3a
+    projectPath: Library\Artifacts\f4\f4023b6a6dc0aefeb48848b2573e5f3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f4\f4afef4ff90a67ca4e6bd22e74ef8a02
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f4\f4afef4ff90a67ca4e6bd22e74ef8a02
+    projectPath: Library\Artifacts\f4\f4afef4ff90a67ca4e6bd22e74ef8a02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f5\f53dc66090ca59159f85d2f4cb2995f9
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f5\f53dc66090ca59159f85d2f4cb2995f9
+    projectPath: Library\Artifacts\f5\f53dc66090ca59159f85d2f4cb2995f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f5\f556ed4e50ff60bb68aa57bcce4fdff7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f5\f556ed4e50ff60bb68aa57bcce4fdff7
+    projectPath: Library\Artifacts\f5\f556ed4e50ff60bb68aa57bcce4fdff7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f6\f6c1a54e3b95c5f6e9882b36a8fe105f
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f6\f6c1a54e3b95c5f6e9882b36a8fe105f
+    projectPath: Library\Artifacts\f6\f6c1a54e3b95c5f6e9882b36a8fe105f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f8\f808128d8c75121559672a30c28ff741
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f8\f808128d8c75121559672a30c28ff741
+    projectPath: Library\Artifacts\f8\f808128d8c75121559672a30c28ff741
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\f8\f857ae80c9849a3a48c0068d5f61febf
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\f8\f857ae80c9849a3a48c0068d5f61febf
+    projectPath: Library\Artifacts\f8\f857ae80c9849a3a48c0068d5f61febf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fa\fa689275c2d8d0aaf8c511c4c21b3822
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fa\fa689275c2d8d0aaf8c511c4c21b3822
+    projectPath: Library\Artifacts\fa\fa689275c2d8d0aaf8c511c4c21b3822
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fb\fbaa50a66938facf55e54ab2d8b7899c
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fb\fbaa50a66938facf55e54ab2d8b7899c
+    projectPath: Library\Artifacts\fb\fbaa50a66938facf55e54ab2d8b7899c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fc\fcfd4963caceeebcd1a788194d2d8832
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fc\fcfd4963caceeebcd1a788194d2d8832
+    projectPath: Library\Artifacts\fc\fcfd4963caceeebcd1a788194d2d8832
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fd\fd38cf12a5667c9d86f9a00287c150a8
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fd\fd38cf12a5667c9d86f9a00287c150a8
+    projectPath: Library\Artifacts\fd\fd38cf12a5667c9d86f9a00287c150a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fe\fe167b316f7c3cc0e9d5f193cd128de7
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fe\fe167b316f7c3cc0e9d5f193cd128de7
+    projectPath: Library\Artifacts\fe\fe167b316f7c3cc0e9d5f193cd128de7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fe\fe615450bc680f7e6e8747f36f639741
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fe\fe615450bc680f7e6e8747f36f639741
+    projectPath: Library\Artifacts\fe\fe615450bc680f7e6e8747f36f639741
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\fe\fe7a613c9e66350a08944f87f3e68bf5
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\fe\fe7a613c9e66350a08944f87f3e68bf5
+    projectPath: Library\Artifacts\fe\fe7a613c9e66350a08944f87f3e68bf5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\Artifacts\ff\ffa3d05bca7a3700c242dea3a4dd5259
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\Artifacts\ff\ffa3d05bca7a3700c242dea3a4dd5259
+    projectPath: Library\Artifacts\ff\ffa3d05bca7a3700c242dea3a4dd5259
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project 2042\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Library\EditorInstance.json
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Library\SourceAssetDB
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project 2042\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Logs\AssetImportWorker2-prev.log
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Temp\UnityLockfile
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project 2042\Temp\workerlic
+    fullPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project 2042\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
