@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 592}
+  m_MinSize: {x: 875, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1187
     height: 861
-  m_MinSize: {x: 875, y: 592}
+  m_MinSize: {x: 875, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -120,10 +120,10 @@ MonoBehaviour:
     y: 30
     width: 1187
     height: 811
-  m_MinSize: {x: 910, y: 542}
-  m_MaxSize: {x: 22005, y: 12042}
+  m_MinSize: {x: 911, y: 563}
+  m_MaxSize: {x: 22006, y: 12063}
   vertical: 0
-  controlID: 669
+  controlID: 272
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,10 +171,10 @@ MonoBehaviour:
     y: 0
     width: 680
     height: 811
-  m_MinSize: {x: 404, y: 542}
-  m_MaxSize: {x: 8004, y: 12042}
+  m_MinSize: {x: 404, y: 563}
+  m_MaxSize: {x: 8004, y: 12063}
   vertical: 1
-  controlID: 670
+  controlID: 273
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 751
+  controlID: 410
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -274,10 +274,10 @@ MonoBehaviour:
     y: 454
     width: 680
     height: 357
-  m_MinSize: {x: 302, y: 321}
-  m_MaxSize: {x: 8002, y: 8021}
+  m_MinSize: {x: 304, y: 342}
+  m_MaxSize: {x: 8004, y: 8042}
   vertical: 0
-  controlID: 671
+  controlID: 274
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,10 +299,10 @@ MonoBehaviour:
     y: 0
     width: 479
     height: 357
-  m_MinSize: {x: 202, y: 321}
-  m_MaxSize: {x: 4002, y: 8021}
+  m_MinSize: {x: 202, y: 342}
+  m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 672
+  controlID: 275
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -542,8 +542,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 57
-  m_LastProjectPath: C:\Users\marvi\OneDrive\Documents\Player-Controller\Project
-    2042
+  m_LastProjectPath: C:\Users\marvi\OneDrive\Documents\GitHub\Project 2042
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -662,8 +661,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 68430000
-      m_LastClickedID: 17256
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -724,9 +723,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.6858697, y: 1.8857592, z: -27.533323}
+    m_Target: {x: 99.91328, y: 234.28221, z: -121.067795}
     speed: 2
-    m_Value: {x: 6.5542517, y: 1.7379776, z: -27.457584}
+    m_Value: {x: 99.91328, y: 234.28221, z: -121.067795}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -777,9 +776,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 20.091629
+    m_Target: 372.577
     speed: 2
-    m_Value: 21.038355
+    m_Value: 372.577
   m_Ortho:
     m_Target: 1
     speed: 2

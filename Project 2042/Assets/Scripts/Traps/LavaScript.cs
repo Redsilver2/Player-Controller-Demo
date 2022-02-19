@@ -5,9 +5,11 @@ using UnityEngine;
 public class LavaScript : MonoBehaviour
 {
 
+    [SerializeField] float Speed = 0.002f;
     // Update is called once per frame
     void Update()
     {
-        transform.localScale += new Vector3(1f, Time.deltaTime, 0f);
+        transform.position += new Vector3(0f, Speed * Time.realtimeSinceStartup);
+        Debug.Log(Speed * Time.realtimeSinceStartup);
     }
 }
