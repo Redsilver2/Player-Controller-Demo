@@ -10,3 +10,5 @@ This contains:
 - Interactive Character
 - Animation Manager
 - ect
+
+You can delete this and the file below.
